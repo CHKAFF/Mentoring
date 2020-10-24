@@ -7,6 +7,7 @@
       <e p="appsettings.Development.json" t="Include" />
       <e p="appsettings.json" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
+      <e p="Maincontroller.cs" t="Include" />
       <e p="Mentoring.csproj" t="IncludeRecursive" />
       <e p="Mentoring.sln" t="IncludeFlat" />
       <e p="obj" t="ExcludeRecursive">
@@ -17,6 +18,11 @@
         </e>
       </e>
       <e p="packages" t="ExcludeRecursive" />
+      <e p="Pages" t="Include">
+        <e p="Main" t="Include">
+          <e p="Index.cshtml" t="Include" />
+        </e>
+      </e>
       <e p="Program.cs" t="Include" />
       <e p="Properties" t="Include">
         <e p="launchSettings.json" t="Include" />
