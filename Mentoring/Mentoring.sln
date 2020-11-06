@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mentoring", "Mentoring\Mentoring.csproj", "{A7522048-4457-4B2C-ABD8-F0ED1E91A688}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mentoring", "Mentoring\Mentoring.csproj", "{DAE39CD0-C4F7-424E-B8CB-7A15F861B29B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A7522048-4457-4B2C-ABD8-F0ED1E91A688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A7522048-4457-4B2C-ABD8-F0ED1E91A688}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A7522048-4457-4B2C-ABD8-F0ED1E91A688}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A7522048-4457-4B2C-ABD8-F0ED1E91A688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAE39CD0-C4F7-424E-B8CB-7A15F861B29B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE39CD0-C4F7-424E-B8CB-7A15F861B29B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE39CD0-C4F7-424E-B8CB-7A15F861B29B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE39CD0-C4F7-424E-B8CB-7A15F861B29B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
