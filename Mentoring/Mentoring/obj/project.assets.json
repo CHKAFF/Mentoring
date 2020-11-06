@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Артем\\RiderProjects\\Mentoring\\Mentoring\\Mentoring.csproj",
+      "projectUniqueName": "C:\\Users\\Артем\\RiderProjects\\Mentoring\\Mentoring\\Mentoring\\Mentoring.csproj",
       "projectName": "Mentoring",
-      "projectPath": "C:\\Users\\Артем\\RiderProjects\\Mentoring\\Mentoring\\Mentoring.csproj",
+      "projectPath": "C:\\Users\\Артем\\RiderProjects\\Mentoring\\Mentoring\\Mentoring\\Mentoring.csproj",
       "packagesPath": "C:\\Users\\Артем\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Артем\\RiderProjects\\Mentoring\\Mentoring\\obj\\",
+      "outputPath": "C:\\Users\\Артем\\RiderProjects\\Mentoring\\Mentoring\\Mentoring\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Артем\\AppData\\Roaming\\NuGet\\NuGet.Config"

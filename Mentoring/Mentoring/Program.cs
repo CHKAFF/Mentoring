@@ -9,7 +9,7 @@ using Microsoft.Extensions.Logging;
 
 namespace Mentoring
 {
-    public class z
+    public class Program
     {
         public static void Main(string[] args)
         {
